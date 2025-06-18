@@ -3,7 +3,7 @@ import time
 import os
 
 # Токен бота
-TOKEN = {{token_bot}}
+TOKEN = 
 
 # ID группы, которую нужно отслеживать
 GROUP_ID = {{id_tegram}}
